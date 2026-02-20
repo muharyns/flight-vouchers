@@ -53,6 +53,7 @@ sqlite3
 
 3.  Install frontend dependencies:
     ```bash
+    cd flight-vouchers/frontend
     npm install
     ```
 
